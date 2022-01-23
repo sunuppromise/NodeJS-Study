@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-study",
+  "version": "1.0.0",
+  "description": "NodeJS Sutdy History",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunuppromise/NodeJS-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunuppromise/NodeJS-Study/issues"
+  },
+  "homepage": "https://github.com/sunuppromise/NodeJS-Study#readme"
+}
