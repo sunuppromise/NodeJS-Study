@@ -1,7 +1,6 @@
 const http = require('http');
 const fs = require('fs');
 const url = require('url');
-const { Console } = require('console');
 
 const app = http.createServer(function (request, response) {
   const requestURL = request.url;
